@@ -1,0 +1,32 @@
+diaforiko_epitaxinsh_PID_test_data.o: \
+ C:/Users/akrdi/Documents/NXP_CUP/PROGRAMMING/diaforiko_epitaxinsh_PID_test_ert_rtw/diaforiko_epitaxinsh_PID_test_data.c \
+ C:/Users/akrdi/Documents/NXP_CUP/PROGRAMMING/diaforiko_epitaxinsh_PID_test_ert_rtw/diaforiko_epitaxinsh_PID_test.h \
+ C:/Users/akrdi/Documents/NXP_CUP/PROGRAMMING/diaforiko_epitaxinsh_PID_test_ert_rtw/rtwtypes.h \
+ C:/Program\ Files/MATLAB/R2023b/extern/include/tmwtypes.h \
+ C:/Program\ Files/MATLAB/R2023b/simulink/include/rtw_continuous.h \
+ C:/Users/akrdi/Documents/NXP_CUP/PROGRAMMING/diaforiko_epitaxinsh_PID_test_ert_rtw/rtwtypes.h \
+ C:/Program\ Files/MATLAB/R2023b/simulink/include/rtw_solver.h \
+ C:/Program\ Files/MATLAB/R2023b/simulink/include/rtw_continuous.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/dcMotor_wrapper.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/dipSwitch_wrapper.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/camera_wrapper.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/pot_wrapper.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/servo_wrapper.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/digitalPin_wrapper.h \
+ C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/serial_wrapper.h \
+ C:/Users/akrdi/Documents/NXP_CUP/PROGRAMMING/diaforiko_epitaxinsh_PID_test_ert_rtw/diaforiko_epitaxinsh_PID_test_types.h
+C:/Users/akrdi/Documents/NXP_CUP/PROGRAMMING/diaforiko_epitaxinsh_PID_test_ert_rtw/diaforiko_epitaxinsh_PID_test.h:
+C:/Users/akrdi/Documents/NXP_CUP/PROGRAMMING/diaforiko_epitaxinsh_PID_test_ert_rtw/rtwtypes.h:
+C:/Program\ Files/MATLAB/R2023b/extern/include/tmwtypes.h:
+C:/Program\ Files/MATLAB/R2023b/simulink/include/rtw_continuous.h:
+C:/Users/akrdi/Documents/NXP_CUP/PROGRAMMING/diaforiko_epitaxinsh_PID_test_ert_rtw/rtwtypes.h:
+C:/Program\ Files/MATLAB/R2023b/simulink/include/rtw_solver.h:
+C:/Program\ Files/MATLAB/R2023b/simulink/include/rtw_continuous.h:
+C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/dcMotor_wrapper.h:
+C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/dipSwitch_wrapper.h:
+C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/camera_wrapper.h:
+C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/pot_wrapper.h:
+C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/servo_wrapper.h:
+C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/digitalPin_wrapper.h:
+C:/ProgramData/MATLAB/SupportPackages/R2023b/toolbox/target/supportpackages/freedomboard/include/serial_wrapper.h:
+C:/Users/akrdi/Documents/NXP_CUP/PROGRAMMING/diaforiko_epitaxinsh_PID_test_ert_rtw/diaforiko_epitaxinsh_PID_test_types.h:
